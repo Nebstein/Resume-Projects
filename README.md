@@ -1,5 +1,6 @@
 # Resume-Projects
 Projects listed here are on my Resume and LinkedIn for employers to view
+
 Hosted Webpage: Assigned with hosting and building a secure and functional webpage using Apache containers and Azure cloud services. Including a valid SSL certification, load balancing, backup database servers and a secure SSH connection avenue.
 
 ● Role: Sole Developer
