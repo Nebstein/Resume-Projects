@@ -13,7 +13,7 @@ Security Monitoring Environment:  Tasked as part of a group of individuals to bu
 
 ● Tools: Splunk
 
-Vulnerability Presentation: Given the job of presenting a known vulneratbility as a team to a group of peers in order to inform and teach about the dangers of certain security vulnerabilities, both making it digestable and human readable while demonstrating technical knowledge simultaneiously. 
+Vulnerability Presentation: Given the job of presenting a known vulnerability as a team to a group of peers in order to inform and teach about the dangers of certain security vulnerabilities, both making it digestible and human readable while demonstrating technical knowledge simultaneously.
 
 ● Role: Team member 
 
